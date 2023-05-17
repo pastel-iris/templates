@@ -1,0 +1,13 @@
+[category]
+name = "Shell"
+languages = [
+  "Bash",
+  "Zsh",
+  "PowerShell",
+]
+
+[templates]
+
+[templates."TestTemplate"]
+language = "Bash"
+path = "./test.sh"

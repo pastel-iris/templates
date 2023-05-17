@@ -1,9 +1,0 @@
-{
-  "templates": [
-    {
-      "name": "TestTemplate",
-      "language": "Bash",
-      "path": "./test.sh"
-    }
-  ]
-}
