@@ -1,0 +1,8 @@
+[repository]
+name = "LookingGlass Central"
+url = "https://github.com/pastel-iris/templates"
+description = "Basic templates provided by PastelIris"
+authors = ["Jules Nieves <jules.nieves0301@gmail.com>"]
+categories = [
+	"Shell"
+]
