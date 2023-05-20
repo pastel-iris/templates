@@ -6,3 +6,8 @@ authors = ["Jules Nieves <jules.nieves0301@gmail.com>"]
 categories = [
 	"Shell"
 ]
+
+# only supported source for now
+[source]
+type = "Git"
+name = "pastel-iris/templates"
